@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Учеба ИИ\Знакомство с языками програмирования_001\C#_001\bin\Debug\net6.0\C#_001.exe
+C:\Users\Asus\Desktop\Учеба ИИ\Знакомство с языками програмирования_001\C#_001\bin\Debug\net6.0\C#_001.deps.json
+C:\Users\Asus\Desktop\Учеба ИИ\Знакомство с языками програмирования_001\C#_001\bin\Debug\net6.0\C#_001.runtimeconfig.json
+C:\Users\Asus\Desktop\Учеба ИИ\Знакомство с языками програмирования_001\C#_001\bin\Debug\net6.0\C#_001.dll
+C:\Users\Asus\Desktop\Учеба ИИ\Знакомство с языками програмирования_001\C#_001\bin\Debug\net6.0\C#_001.pdb
+C:\Users\Asus\Desktop\Учеба ИИ\Знакомство с языками програмирования_001\C#_001\obj\Debug\net6.0\C#_001.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Учеба ИИ\Знакомство с языками програмирования_001\C#_001\obj\Debug\net6.0\C#_001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Учеба ИИ\Знакомство с языками програмирования_001\C#_001\obj\Debug\net6.0\C#_001.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Учеба ИИ\Знакомство с языками програмирования_001\C#_001\obj\Debug\net6.0\C#_001.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Учеба ИИ\Знакомство с языками програмирования_001\C#_001\obj\Debug\net6.0\C#_001.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Учеба ИИ\Знакомство с языками програмирования_001\C#_001\obj\Debug\net6.0\C#_001.dll
+C:\Users\Asus\Desktop\Учеба ИИ\Знакомство с языками програмирования_001\C#_001\obj\Debug\net6.0\refint\C#_001.dll
+C:\Users\Asus\Desktop\Учеба ИИ\Знакомство с языками програмирования_001\C#_001\obj\Debug\net6.0\C#_001.pdb
+C:\Users\Asus\Desktop\Учеба ИИ\Знакомство с языками програмирования_001\C#_001\obj\Debug\net6.0\C#_001.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Учеба ИИ\Знакомство с языками програмирования_001\C#_001\obj\Debug\net6.0\ref\C#_001.dll
